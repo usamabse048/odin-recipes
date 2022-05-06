@@ -1,0 +1,30 @@
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.heading{
+    text-align: center;
+    color: red;
+
+    
+}
+h1.heading{
+    font-size: 50px;
+    color: chartreuse;
+}
+
+img{
+    height: auto;
+    width: 200px;
+   
+}
+
+body{
+    background-color: tan;
+}
+
+p{
+    color: green;
+   
+}
